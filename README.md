@@ -1,2 +1,2 @@
-# geomalvis.github.io
+# geomalvis.github.com
 Deskripsi Edit 2
